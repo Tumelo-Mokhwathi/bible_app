@@ -1,0 +1,23 @@
+{
+    "AmericanStandardVersion": [
+        {
+          "VerseId": "Genesis 1.1",
+          "Scripture":
+            "In the beginning God created [by forming from nothing] the heavens and the earth."
+        },
+        {
+            "VerseId": "Genesis 1.2",
+            "Scripture":
+            "The earth was [c]formless and void or a waste and emptiness, and darkness was upon the face of the deep [primeval ocean that covered the unformed earth]. The Spirit of God was moving (hovering, brooding) over the face of the waters."
+        },
+        {
+            "VerseId": "Genesis 1.3",
+            "Scripture": "And God said, Let there be light: and there was light."
+        },
+        {
+            "VerseId": "Genesis 1.4",
+            "Scripture":
+            "God saw that the light was good (pleasing, useful) and [e]He affirmed and sustained it; and God separated the light [distinguishing it] from the darkness."
+        }
+      ]
+}
